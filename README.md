@@ -1,4 +1,3 @@
-# Web Application Test
 
 # Note
 Make sure you run this on node@14.0 or lower 
